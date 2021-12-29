@@ -1,1 +1,15 @@
 
+/* GLOBAL STYLES */
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #222;
+}
+
+p {
+  margin: 0;
+}
+
+td {
+  padding: 0;
