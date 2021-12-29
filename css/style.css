@@ -12,9 +12,9 @@ p {
 
 td {
   padding: 0;
-}
 
-/* HEADER */
+  
+ /* HEADER */
 
 .header {
   display: grid;
@@ -39,6 +39,7 @@ td {
   height: 30px;
   margin: 4px 28px 0 24px;
 }
+
 
 /* Search */
 
@@ -557,3 +558,4 @@ td {
   float: right;
   margin-right: 28px;
 }
+
