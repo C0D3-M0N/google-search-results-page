@@ -64,5 +64,5 @@ Recreated: [here](/extra/recreated.jpg)
 
 ## Author
 
-👤 **ArtisDev**
+👤 **C0D3-M0N**
 * GitHub: [C0D3-M0N](https://github.com/C0D3-M0N)
