@@ -13,3 +13,31 @@ p {
 
 td {
   padding: 0;
+  
+  
+ /* HEADER */
+
+.header {
+  display: grid;
+  grid-template-columns: 160px 692px auto 190px;
+  grid-template-rows: 45px 57px;
+  grid-template-areas:
+    "logo search. account"
+    ". search-settings . .";
+  margin-top: 20px;
+  border-bottom: 1px solid #ebebeb;
+}
+
+/* Logo */
+
+.logo {
+  grid-area: logo;
+  align-self: center;
+}
+
+.logo img {
+  width: 92px;
+  height: 30px;
+  margin: 4px 28px 0 24px;
+}
+
